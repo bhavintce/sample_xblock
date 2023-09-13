@@ -1,0 +1,9 @@
+/* CSS for EflokXBlock */
+
+.eflok_block .count {
+    font-weight: bold;
+}
+
+.eflok_block p {
+    cursor: pointer;
+}
